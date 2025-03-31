@@ -1,4 +1,11 @@
 # MISA-Rebuttal-Experiments-Sheet
+| Method    | GSM8K    | SVAMP    | AQUA    | MAWPS | Avg. |
+| -------- | -------- | -------- | --------| --------|--------|
+| BAdam(ascending)   | 71.9 |  82.3 |  59.4 | 92.4|74|
+| BAdam(asd.,5-shot)   | 74.2 |  83.1 |  62.2 | 91.3|77.7|
+| BAdam(random)   | 80.2 |  85.9 |  65.1 | 92.4|80.9|
+
+袁坤是我爹
 |Model| Method|MMLU| MMLU-pro | MT-Bench|
 |--------| -------- | -------- | -------- | -------- |
 |TinyLLaMA|LISA|**26.02**|11.59|**2.57**|
